@@ -1,0 +1,28 @@
+body{
+    background-color: #23272a;
+    font-family: Arial;
+    color: white;
+    margin: 0;
+    padding: 40px;
+}
+.container{
+    background-color: #2c2f33;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+    max-width: 800px;
+    margin: auto;
+}
+.title{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+    border-bottom: 3px #99aab5 solid;
+    padding-bottom: 10px;
+}
+.content{
+    font-size: 12px;
+    line-height: 1.6;
+    text-align: justify;
+}
